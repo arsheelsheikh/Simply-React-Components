@@ -138,7 +138,7 @@ export default function Navigation() {
             <a
               target="_blank"
               href="https://github.com/arsheelsheikh"
-              className="Navigation__social-link"
+              className="Navigation__social-link" rel="noreferrer"
             >
               <img
                 className="Navigation__social-icon"
@@ -149,7 +149,7 @@ export default function Navigation() {
             <a
               target="_blank"
               href="https://www.linkedin.com/in/arsheelsheikh/"
-              className="Navigation__social-link"
+              className="Navigation__social-link" rel="noreferrer"
             >
               <img
                 className="Navigation__social-icon"

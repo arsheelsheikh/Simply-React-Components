@@ -48,7 +48,7 @@ export default function RadioButtons() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/radio-buttons-4t6zyp?file=/src/styles.css"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img

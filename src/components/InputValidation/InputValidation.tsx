@@ -64,7 +64,7 @@ export default function InputValidation() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/input-validation-r9rdrl?file=/src/App.js"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img

@@ -43,7 +43,7 @@ export default function HamburgerMenu() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/zen-morse-vfmfsg?file=/src/styles.css"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img

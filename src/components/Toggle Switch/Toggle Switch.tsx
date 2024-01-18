@@ -25,7 +25,7 @@ export default function ToggleSwitch() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/toogle-switch-4ysckd"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img

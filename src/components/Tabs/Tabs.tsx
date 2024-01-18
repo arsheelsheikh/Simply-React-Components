@@ -59,7 +59,7 @@ export default function Tabs() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/tabs-dx2zny?file=/src/App.js"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img

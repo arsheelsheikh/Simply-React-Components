@@ -19,7 +19,7 @@ export default function Dropdown() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/dropdown-hr3mdf"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img

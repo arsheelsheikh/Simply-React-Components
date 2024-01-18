@@ -41,7 +41,7 @@ export default function ProgressBar() {
         <a
           className="Sandbox__link"
           href="https://codesandbox.io/s/progress-bar-ftgz8x?file=/src/styles.css"
-          target="_blank"
+          target="_blank" rel="noreferrer"
         >
           Test on CodeSandbox
           <img
